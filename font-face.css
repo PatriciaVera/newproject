@@ -1,0 +1,54 @@
+@font-face{
+    font-family: 'prahopro-black';
+    src: url(font/PrahoPro-Black.otf);
+}
+
+@font-face{
+    font-family: 'prahopro-black-italic';
+    src: url(font/PrahoPro-BlackItalic.otf);
+}
+
+@font-face{
+    font-family: 'prahopro-bold';
+    src: url(font/PrahoPro-Bold.otf);
+}
+
+@font-face{
+    font-family: 'prahopro-bold-italic';
+    src: url(font/PrahoPro-BoldItalic.otf);
+}
+
+@font-face{
+    font-family: 'prahopro-extra-bold';
+    src: url(font/PrahoPro-ExtraBold.otf);
+}
+
+@font-face{
+    font-family: 'prahopro-exta-bold-italic';
+    src: url(font/PrahoPro-ExtraBoldItalic.otf);
+}
+
+@font-face{
+    font-family: 'prahopro-extra-light';
+    src: url(font/PrahoPro-ExtraLight.otf);
+}
+
+@font-face{
+    font-family: 'prahopro-bold-light-itelic';
+    src: url(font/PrahoPro-ExtraLightItalic.otf);
+}
+
+@font-face{
+    font-family: 'prahopro-regular';
+    src: url(font/PrahoPro-Regular.otf);
+}
+
+@font-face{
+    font-family: 'prahopro-thin';
+    src: url(font/PrahoPro-Thin.otf);
+}
+
+@font-face{
+    font-family: 'prahopro-light';
+    src: url(font/PrahoPro-Light.otf);
+}
